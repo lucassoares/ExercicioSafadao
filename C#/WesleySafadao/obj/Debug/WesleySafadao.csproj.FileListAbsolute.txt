@@ -1,0 +1,6 @@
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\bin\Debug\WesleySafadao.exe.config
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\bin\Debug\WesleySafadao.exe
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\bin\Debug\WesleySafadao.pdb
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\obj\Debug\WesleySafadao.csprojResolveAssemblyReference.cache
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\obj\Debug\WesleySafadao.exe
+C:\Users\soares\Desktop\WesleySafadao\WesleySafadao\obj\Debug\WesleySafadao.pdb
